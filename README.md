@@ -1,1 +1,1 @@
-# JS_homeworks
+# teach_me_skills
