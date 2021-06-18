@@ -1,0 +1,27 @@
+.div-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.news-wrapper {
+    border: 1px solid black;
+    background-color: green;
+    width: 30%;
+}
+
+.news-title {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.news-text{
+    font-size: 20px;
+    display: none;
+}
+
+.news-text-visible{
+    font-size: 20px;
+    display: block;
+}
+
